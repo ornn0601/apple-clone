@@ -102,7 +102,7 @@ body.before-load {
 	margin: 5px 0;
 	height: 3em;
 	font-size: 2.5rem;
-	/* opacity: 0; */
+	opacity: 0;
 }
 .main-message p {
 	font-weight: bold;
@@ -149,7 +149,7 @@ body.before-load {
 	left: 45%;
 }
 .mid-message {
-	max-width: 1000px;
+    max-width: 1000px;
 	margin: 0 auto;
 	padding: 0 1rem;
 	font-size: 2rem;
@@ -176,7 +176,6 @@ body.before-load {
 .sticky-elem {
 	display: none;
     position: fixed;
-    top: 0;
 	left: 0;
 	width: 100%;
 }
